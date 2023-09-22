@@ -1,4 +1,4 @@
-# aluramid
+# AluraMid
 
 Aluna: Maria Eduarda Reis Neves
 
